@@ -329,3 +329,10 @@ ellipse, .connector-lines line, .connections path {
   50%{ transform:translate(0px, 0px);}
   100%{ transform:translate(3px, -2px);}
 }
+
+.enableBg{
+  enable-background: "new 0 0 512 512"
+}
+.enableBgtwo{
+  enable-background: "new 0 0 1024 512"
+}

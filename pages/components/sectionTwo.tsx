@@ -180,8 +180,8 @@ export default function SectionTwo({}: Props) {
           x="0px"
           y="0px"
           viewBox="0 0 1024 512"
-          style={{ enableBackground: "new 0 0 1024 512" }}
           xmlSpace="preserve"
+          className='enableBgtwo'
         >
           <g className="circle-grp">
             <path

@@ -32,15 +32,13 @@ export default function SectionOne({}: Props) {
     </div>
     <div className="svg-container">
       <svg
-        className="hero-svg"
+        className="hero-svg enableBg"
         version="1.1"
         id="Layer_1"
         xmlns="http://www.w3.org/2000/svg"
-        // xmlnslink="http://www.w3.org/1999/xlink"
         x="0px"
         y="0px"
         viewBox="0 0 512 512"
-        style={{ enableBackground: "new 0 0 512 512" }}
         xmlSpace="preserve"
       >
         <g className="circles">
@@ -581,7 +579,7 @@ export default function SectionOne({}: Props) {
             attributeName="y1"
             values=" 233.83; 109.81; "
             dur="2s"
-            delay="1s"
+            // delay="1s"
             repeatCount="indefinite"
           />
         </line>
@@ -608,7 +606,7 @@ export default function SectionOne({}: Props) {
             attributeName="y1"
             values=" 233.83; 109.81; "
             dur="5s"
-            delay="2.5s"
+            // delay="2.5s"
             repeatCount="indefinite"
           />
         </line>
@@ -635,7 +633,7 @@ export default function SectionOne({}: Props) {
             attributeName="y1"
             values=" 233.83; 109.81; "
             dur="3s"
-            delay="1.5s"
+            // delay="1.5s"
             repeatCount="indefinite"
           />
         </line>
@@ -662,7 +660,7 @@ export default function SectionOne({}: Props) {
             attributeName="y1"
             values=" 233.83; 109.81; "
             dur="4s"
-            delay="2s"
+            // delay="2s"
             repeatCount="indefinite"
           />
         </line>
